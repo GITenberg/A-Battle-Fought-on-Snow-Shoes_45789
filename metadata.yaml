@@ -1,0 +1,29 @@
+_repo: A-Battle-Fought-on-Snow-Shoes_45789
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rogers, Mary Cochrane
+    birthdate: 1869
+    gutenberg_agent_id: '43453'
+    url: http://www.gutenberg.org/2009/agents/43453
+description: ''
+gutenberg_issued: '2014-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45789'
+  lccn: '18001900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rogers'' Rangers'
+- !lcsh 'Rogers, Robert, 1731-1795'
+- !lcc 'E186'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Regimental
+  histories'
+title: 'Rogers'' Rock, Lake George, March 13, 1758: A Battle Fought on Snow Shoes'
+url: http://www.gutenberg.org/ebooks/45789
